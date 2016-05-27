@@ -1,0 +1,28 @@
+name: Vortech
+favicon: null
+layout_spectrum: 0.43451492954045534
+typography_spectrum: 0.2640760897193104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2764707354363054
+  lightness: 0.6237374357879162
+  saturation: 0.9914304441772401
+  rhythmicContrast: 0.5564118446782231
+purpose: []
